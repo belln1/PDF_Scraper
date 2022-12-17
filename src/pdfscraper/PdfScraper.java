@@ -34,7 +34,6 @@ public class PdfScraper {
 
 	static String delimiter = ";";
 	//String urlname = "http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:31972D0026&from=EN";
-	//xx
 
 
 	public static void main(String[] args) {
